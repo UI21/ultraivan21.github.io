@@ -1,4 +1,0 @@
-theme: jekyll-theme-cayman
-paginate: 5
-plugins:
-  - jekyll-paginate
